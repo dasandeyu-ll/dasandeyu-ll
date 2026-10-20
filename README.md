@@ -123,7 +123,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dasandeyu-ll&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
 <img src="https://github-readme-stats.vercel.app/api/repo-top-langs/?username=dasandeyu-ll&layout=compact&theme=radical&hide_border=true" height="165" alt="repo langs"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dasandeyu-ll&theme=radical&hide_border=true" height="165" alt="streak"/>
+<img src="https://github-readme-streak-stats.vercel.app?user=dasandeyu-ll&theme=radical&hide_border=true" height="165" alt="streak"/>
 
 </div>
 
