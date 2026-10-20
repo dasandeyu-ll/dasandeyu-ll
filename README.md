@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<!-- 贪吃蛇动画（由 .github/workflows/snake.yml 生成，需要启用 Pages） -->
+<!-- 贪吃蛇动画（由 dasandeyu-ll/snake 仓库的 Actions 每日生成） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dasandeyu-ll/dasandeyu-ll/gh-pages/snake.svg" alt="snake" width="100%"/>
+  <img src="https://dasandeyu-ll.github.io/snake/snake.svg" alt="snake" width="100%"/>
 </p>
 
 <br/>
