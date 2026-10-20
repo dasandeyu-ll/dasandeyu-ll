@@ -122,8 +122,8 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dasandeyu-ll&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dasandeyu-ll&theme=radical&hide_border=true&area=true&point=H&point_size=18&radius=4" height="165" alt="activity"/>
-<img src="https://github-readme-streak-stats.vercel.app?user=dasandeyu-ll&theme=radical&hide_border=true" height="165" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasandeyu-ll&layout=donut&theme=radical&hide_border=true&langs_count=8" height="165" alt="top languages"/>
+<img src="https://streak-stats.demolab.com?user=dasandeyu-ll&theme=radical&hide_border=true" height="165" alt="streak"/>
 
 </div>
 
