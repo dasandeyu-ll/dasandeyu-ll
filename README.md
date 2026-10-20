@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- 打字机标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&center=true&vCenter=true&width=680&lines=AI+Agent+%E5%BC%80%E5%8F%91%E8%80%85+%E2%80%94+LangGraph+%E7%8A%B6%E6%80%81%E6%9C%BA+%2F+RAG+%2F+%E5%A4%9A%E6%A0%87%E7%AD%BE%E8%AF%86%E5%88%AB,Building+production-ready+AI+agents+with+LangGraph" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&center=true&vCenter=true&width=680&lines=AI+Agent+Engineer+%E2%80%94+LangGraph+%2F+RAG+%2F+Multi-label+Intent,Building+production-ready+AI+agents+with+LangGraph+%26+Pydantic,Explicitly+engineering+the+uncertainty+in+LLM+systems" alt="typing" />
+
+<p align="center">
+  <b>AI Agent 工程师</b> · <b>LangGraph 状态机</b> · <b>结构化输出</b> · <b>全栈 RAG</b> · <b>分层评测</b>
+</p>
 
 <br/>
 
@@ -50,7 +54,7 @@
         </p>
       </td>
       <td width="38%" align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=dasandeyu-ll&fontSize=42&animation=fadeIn" alt="header"/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=dasandeyu-ll&fontSize=40&animation=fadeIn" alt="header"/>
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasandeyu-ll&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
       </td>
